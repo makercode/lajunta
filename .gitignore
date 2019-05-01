@@ -1,0 +1,34 @@
+/*
+!.gitignore
+
+!wp-content/
+wp-content/*
+
+wp-content/plugins/
+
+!wp-content/themes/
+wp-content/themes/*
+!wp-content/themes/artandcopy/
+!wp-content/themes/artandcopy/screenshot.png
+wp-content/themes/artandcopy/node_modules
+wp-content/themes/artandcopy/.eslintrc
+!wp-content/themes/artandcopy/*.php
+
+wp-content/themes/artandcopy/package-lock.json
+!wp-content/themes/artandcopy/modules/
+!wp-content/themes/artandcopy/functions.php
+
+
+
+# Windows 
+Thumbs.db
+ehthumbs.db
+
+# Folder Config File
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac 
+.DS_Store
